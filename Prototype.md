@@ -144,9 +144,10 @@
 
    传入文件形成列表，针对列表进行增删改查
 
-2. 对论文列表的修改操作 哪些信息可供修改？ 以及爬取的数据
+2. 对论文列表的修改操作 哪些信息可供修改？ 
 
-3. 原型的数据应该如何存放？
+   在群中看到助教的解答，了解到爬虫爬取数据的时候可能会出错，所以在修改的时候所有数据都可以提供修改。
+
 
 ## NABCD模型
 
@@ -212,6 +213,16 @@
 - Axure RP9
 
 ## 结对过程
+
+1. 语音沟通
+
+   ![InkedQQ图片20210311203458_LI](https://gitee.com/starlitelin/lvv-study/raw/master/img/InkedQQ图片20210311203458_LI.png)
+
+2. Axure团队协作
+
+   ![image-20210311204705565](https://gitee.com/starlitelin/lvv-study/raw/master/img/image-20210311204705565.png)
+
+3. Github同步md
 
 ## 队友评价
 
