@@ -111,12 +111,19 @@
     ![image-20210311195658105](https://gitee.com/starlitelin/lvv-study/raw/master/img/image-20210311195658105.png)
 
 + 热词分析
-  ![QQ图片20210311211604](https://gitee.com/starlitelin/lvv-study/raw/master/img/QQ图片20210311211604.png)
     本界面展示了热门领域top10个关键词图谱及近年来热门研究领域的热度走势图。
+  
+  ![image-20210311195658105](https://gitee.com/starlitelin/lvv-study/raw/master/img/image-20210311212254275.png)
+  
   - 关键词图谱
+      该图谱展示了热门领域top10，同时其热度越高，对应的字体大小会越大。点击对应的关键词，就可以看到与其关键词相关的论文。
     
-  ​	![QQ图片20210311211613](https://gitee.com/starlitelin/lvv-study/raw/master/img/QQ图片20210311211613.png)
-    该图谱展示了热门领域top10，同时其热度越高，对应的字体大小会越大。点击对应的关键词，就可以看到与其关键词相关的论文。
+    ![image-20210311195658105](https://gitee.com/starlitelin/lvv-study/raw/master/img/QQ图片20210311211604.png)
+    
+    ![image-20210311195658105](https://gitee.com/starlitelin/lvv-study/raw/master/img/QQ图片20210311211613.png)
+    
+    
+  
 + 个人主页
 
   在主页上首先会展示用户个人的头像、昵称以及个性签名，也可供用户之后修改自己的信息。
